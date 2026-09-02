@@ -1,15 +1,16 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
 "Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
 "Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44","AIPR Opérateur","16/03/2027","Moins d'1 an"
 "Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44","AIPR Opérateur","28/10/2030","Durable"
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44","AIPR Opérateur","10/11/2026","Moins de 6 mois"
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","AIPR Opérateur","10/11/2026","Moins de 6 mois"
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44","AIPR Opérateur","11/12/2028","Durable"
 "Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44","AIPR - Encadrant","19/12/2028","Durable"
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44","AIPR - Concepteur","18/10/2028","Durable"
 "Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
+"Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44","AIPR - Concepteur","18/10/2028","Durable"
 "Goulaine","BOURGINE","GUILLAUME","agent d'exploitation","District 44","AIPR Opérateur","16/10/2030","Durable"
 "Goulaine","BOURSIER","WILFRIED","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
 "Goulaine","BOZAT","KEMAL","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
@@ -17,19 +18,18 @@
 "Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
 "Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA,NA
 "Goulaine","D-ANGELO","CELIA",NA,"District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
 "Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44","AIPR - Encadrant","15/05/2028","Durable"
 "Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44","AIPR Opérateur","11/12/2028","Durable"
 "Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44","AIPR - Encadrant","Compétence exigée","Non renseignée"
 "Goulaine","PETIT","REGIS","agent d'exploitation","District 44","AIPR Opérateur","06/11/2030","Durable"
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44","AIPR Opérateur","08/12/2027","Durable"
 "Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44","AIPR Opérateur","06/11/2030","Durable"
 "Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44","AIPR Opérateur","06/11/2030","Durable"
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
-"Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA,NA
+"Heric","BATARD","JORDANE","agent d'exploitation","District 44","AIPR Opérateur","01/10/2029","Durable"
 "Heric","BECHADE","DAVID","chef equipe a","District 44","AIPR - Encadrant","15/05/2028","Durable"
 "Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
 "Heric","ELFGANG","TONY","agent d'exploitation","District 44","AIPR Opérateur","Compétence exigée","Non renseignée"
@@ -68,6 +68,7 @@
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44","AIPR - Encadrant","19/12/2028","Durable"
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44","AIPR Opérateur","06/11/2030","Durable"
 "Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44","AIPR Opérateur","28/02/2028","Durable"
 "Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44","AIPR - Encadrant","13/11/2030","Durable"
 "Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44","AIPR Opérateur","11/12/2028","Durable"
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44","AIPR - Encadrant","13/11/2030","Durable"

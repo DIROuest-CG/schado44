@@ -1,11 +1,12 @@
 "CEI","Nom","Prénom","Poste","District","Validité","Obsolescence"
 "Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44","31/01/2029","Durable"
 "Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44","08/04/2036","Durable"
 "Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44","15/03/2028","Durable"
 "Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44","08/04/2036","Durable"
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44","29/11/2028","Durable"
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","29/11/2028","Durable"
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44","15/03/2028","Durable"
-"Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA
+"Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44","21/05/2036","Durable"
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44","25/01/2032","Durable"
 "Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44",NA,NA
 "Goulaine","BOURGINE","GUILLAUME","agent d'exploitation","District 44",NA,NA
@@ -15,21 +16,20 @@
 "Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44","08/04/2036","Durable"
 "Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA
 "Goulaine","D-ANGELO","CELIA",NA,"District 44","08/04/2036","Durable"
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA
 "Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44","15/03/2028","Durable"
 "Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44","15/03/2028","Durable"
 "Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44",NA,NA
 "Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA
 "Goulaine","PETIT","REGIS","agent d'exploitation","District 44","15/03/2028","Durable"
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA
 "Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44","08/04/2036","Durable"
-"Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA
+"Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44","21/05/2036","Durable"
 "Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44","08/04/2036","Durable"
 "Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44","25/01/2032","Durable"
 "Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44",NA,NA
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44","31/01/2029","Durable"
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA
 "Heric","BECHADE","DAVID","chef equipe a","District 44",NA,NA
-"Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44",NA,NA
+"Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44","21/05/2036","Durable"
 "Heric","ELFGANG","TONY","agent d'exploitation","District 44","31/01/2029","Durable"
 "Heric","GARAUD","FREDERIK","agent d'exploitation","District 44","06/01/2032","Durable"
 "Heric","GUEMENE","OLIVIER","agent d'exploitation","District 44",NA,NA
@@ -47,7 +47,7 @@
 "Heric","RINCE","SEBASTIEN","agent d'exploitation","District 44","29/01/2036","Durable"
 "Heric","TALABAS","MARC","chef equipe b","District 44",NA,NA
 "La Seguiniere","ABELLARD","DIDIER","responsable de cei","District 44",NA,NA
-"La Seguiniere","AUDEBAULT","MARTIAL","chef.fe d'équipe","District 44",NA,NA
+"La Seguiniere","AUDEBAULT","MARTIAL","chef.fe d'équipe","District 44","21/05/2036","Durable"
 "La Seguiniere","BAUDRY","PIERRICK","agent d'exploitation","District 44","29/01/2036","Durable"
 "La Seguiniere","BERTHELOT","JEROME","agent d'exploitation","District 44","10/03/2036","Durable"
 "La Seguiniere","BOURIGAULT","FREDERIC","agent d'exploitation","District 44","08/11/2028","Durable"
@@ -64,11 +64,12 @@
 "Nantes","BERNARD","JOEL","chef equipe c","District 44","29/11/2028","Durable"
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44","29/11/2028","Durable"
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA
-"Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA
+"Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44","21/05/2036","Durable"
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44","07/12/2027","Durable"
 "Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44",NA,NA
 "Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44","08/11/2028","Durable"
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA
-"Nantes","GUYON","VINCENT","agent d'exploitation","District 44",NA,NA
+"Nantes","GUYON","VINCENT","agent d'exploitation","District 44","21/05/2036","Durable"
 "Nantes","HECHT","FRANCK","agent d'exploitation","District 44","09/12/2026","Moins de 6 mois"
 "Nantes","HERVO","BENOIST",NA,"District 44","29/11/2028","Durable"
 "Nantes","HERVO","BENOIST-CHARLES","chef equipe d","District 44",NA,NA
@@ -84,9 +85,10 @@
 "Nantes","ROBERT","OLIVIER","chef equipe a","District 44",NA,NA
 "Nantes","ROUILLE","JEAN-MICHEL","responsable de cei","District 44",NA,NA
 "Nantes","ROUX","DAVID","agent d'exploitation","District 44","03/01/2033","Durable"
+"Nantes","SAINTE-ROSE","AUGUSTE",NA,"District 44","21/05/2036","Durable"
 "Nantes","SAINTE ROSE","AUGUSTE","agent d'exploitation","District 44",NA,NA
 "Nantes","SOILIHI","ASSAD","agent d'exploitation","District 44",NA,NA
-"Nantes","SUZANNE","ALEXANDRE","agent d'exploitation","District 44",NA,NA
+"Nantes","SUZANNE","ALEXANDRE","agent d'exploitation","District 44","21/05/2036","Durable"
 "Savenay","BALY","CHRISTOPHE","adjoint.e chef cei","District 44",NA,NA
 "Savenay","BERTOLDI","EMMANUEL","responsable d'explo","District 44","31/01/2029","Durable"
 "Savenay","BEZIER","SIMON","agent d'exploitation","District 44","29/01/2036","Durable"

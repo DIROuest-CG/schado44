@@ -1,9 +1,10 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
 "Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44","Nacelles 1B _ ACES","10/10/2028","Durable"
 "Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44","Nacelles 1B _ ACES","19/09/2028","Durable"
 "Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44","Nacelles 1B _ ACES","10/10/2028","Durable"
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44","Nacelles 1B _ ACES","19/09/2028","Durable"
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","Nacelles 1B _ ACES","19/09/2028","Durable"
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44","Nacelles 1B _ ACES","19/09/2028","Durable"
 "Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA,NA
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44","Nacelles 1B _ ACES","10/10/2028","Durable"
@@ -14,18 +15,17 @@
 "Goulaine","CAILLEAU","FREDERIC","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44",NA,NA,NA
 "Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA,NA
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44","Nacelles 1B _ ACES","10/10/2028","Durable"
 "Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44",NA,NA,NA
 "Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA,NA
 "Goulaine","PETIT","REGIS","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44","Nacelles 1B _ ACES","10/10/2028","Durable"
 "Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44",NA,NA,NA
-"Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44","Nacelles 1B _ ACES","21/01/2027","Moins d'1 an"
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44","Nacelles 1B _ ACES","10/10/2028","Durable"
+"Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44","Nacelles 1B _ ACES","21/01/2027","Moins de 6 mois"
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA,NA
 "Heric","BECHADE","DAVID","chef equipe a","District 44",NA,NA,NA
 "Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44","Nacelles 1B _ ACES","18/03/2031","Durable"
@@ -38,14 +38,14 @@
 "Heric","HIAS","OLIVIER","agent d'exploitation","District 44","Nacelles 1B _ ACES","18/03/2031","Durable"
 "Heric","LE GAL","MATTHIEU","responsable de cei","District 44",NA,NA,NA
 "Heric","LELIEVRE","OLIVIER","responsable d'explo","District 44",NA,NA,NA
-"Heric","LEPAGE","ERIC","agent d'exploitation","District 44","Nacelles 1B _ ACES","18/03/2031","Durable"
 "Heric","LEPAGE","ERIC","agent d'exploitation","District 44","Nacelles 3B _ ACES","18/03/2031","Durable"
+"Heric","LEPAGE","ERIC","agent d'exploitation","District 44","Nacelles 1B _ ACES","18/03/2031","Durable"
 "Heric","LEROY","PHILIPPE","agent d'exploitation","District 44","Nacelles 1B _ ACES","18/03/2031","Durable"
 "Heric","LEROY","PHILIPPE","agent d'exploitation","District 44","Nacelles 3B _ ACES","18/03/2031","Durable"
 "Heric","LUCO","TONY","chef(fe) d'equipe","District 44",NA,NA,NA
 "Heric","OUARY","JEROME","agent d'exploitation","District 44","CACES R486 B : PEMP Nacelle 3B","24/01/2033","Durable"
-"Heric","PENLOUP","PHILIPPE","chef equipe c","District 44","Nacelles 1B _ ACES","18/03/2031","Durable"
 "Heric","PENLOUP","PHILIPPE","chef equipe c","District 44","Nacelles 3B _ ACES","18/03/2031","Durable"
+"Heric","PENLOUP","PHILIPPE","chef equipe c","District 44","Nacelles 1B _ ACES","18/03/2031","Durable"
 "Heric","POUILLOUX","FABRICE","agent d'exploitation","District 44","Nacelles 1B _ ACES","19/09/2028","Durable"
 "Heric","RINCE","SEBASTIEN","agent d'exploitation","District 44","Nacelles 1B _ ACES","18/03/2031","Durable"
 "Heric","RINCE","SEBASTIEN","agent d'exploitation","District 44","Nacelles 3B _ ACES","18/03/2031","Durable"
@@ -56,19 +56,21 @@
 "La Seguiniere","BERTHELOT","JEROME","agent d'exploitation","District 44",NA,NA,NA
 "La Seguiniere","BOURIGAULT","FREDERIC","agent d'exploitation","District 44",NA,NA,NA
 "La Seguiniere","BROCHARD","YOHANN","agent d'exploitation","District 44",NA,NA,NA
-"La Seguiniere","DELVOLTE","CHRISTOPHE","agent d'exploitation","District 44","Nacelles 1B _ ACES","21/01/2027","Moins d'1 an"
+"La Seguiniere","DELVOLTE","CHRISTOPHE","agent d'exploitation","District 44","Nacelles 1B _ ACES","21/01/2027","Moins de 6 mois"
 "La Seguiniere","FOUQUERAY","DAMIEN","agent d'exploitation","District 44",NA,NA,NA
-"La Seguiniere","HERVOUET","SAMUEL","agent d'exploitation","District 44","Nacelles 1B _ ACES","21/01/2027","Moins d'1 an"
-"La Seguiniere","LAVAUD","HERVE","responsable d'explo","District 44","Nacelles 1B _ ACES","21/01/2027","Moins d'1 an"
+"La Seguiniere","HERVOUET","SAMUEL","agent d'exploitation","District 44","Nacelles 1B _ ACES","21/01/2027","Moins de 6 mois"
+"La Seguiniere","LAVAUD","HERVE","responsable d'explo","District 44","Nacelles 1B _ ACES","21/01/2027","Moins de 6 mois"
 "La Seguiniere","LEROUX","STEPHANE","agent d'exploitation","District 44",NA,NA,NA
 "La Seguiniere","PARIS","CHRISTOPHE","chef equipe a","District 44",NA,NA,NA
-"La Seguiniere","POGU","DAMIEN","agent d'exploitation","District 44","Nacelles 1B _ ACES","21/01/2027","Moins d'1 an"
+"La Seguiniere","POGU","DAMIEN","agent d'exploitation","District 44","Nacelles 1B _ ACES","21/01/2027","Moins de 6 mois"
 "La Seguiniere","VENDE","MATHIEU","agent d'exploitation","District 44",NA,NA,NA
 "La Seguiniere","VINCENT","OLIVIER","responsable d'explo","District 44",NA,NA,NA
 "Nantes","BERNARD","JOEL","chef equipe c","District 44",NA,NA,NA
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44",NA,NA,NA
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44","Nacelles 3B _ ACES","31/03/2028","Durable"
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44","Nacelles 1B _ ACES","31/03/2028","Durable"
 "Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44",NA,NA,NA
 "Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA,NA

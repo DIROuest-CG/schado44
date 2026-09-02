@@ -1,5 +1,31 @@
 "CEI","Nom","Prénom","Poste","District","Validité","Obsolescence"
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44","30/11/2033","Durable"
+"Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44","30/11/2033","Durable"
+"Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44",NA,NA
+"Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA
+"Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44",NA,NA
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44",NA,NA
+"Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44",NA,NA
+"Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA
+"Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA
+"Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44",NA,NA
+"Goulaine","BOURGINE","GUILLAUME","agent d'exploitation","District 44",NA,NA
+"Goulaine","BOURSIER","WILFRIED","agent d'exploitation","District 44",NA,NA
+"Goulaine","BOZAT","KEMAL","agent d'exploitation","District 44",NA,NA
+"Goulaine","CAILLEAU","FREDERIC","agent d'exploitation","District 44",NA,NA
+"Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44",NA,NA
+"Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA
+"Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44",NA,NA
+"Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44",NA,NA
+"Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44",NA,NA
+"Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA
+"Goulaine","PETIT","REGIS","agent d'exploitation","District 44",NA,NA
+"Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA
+"Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA
+"Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44",NA,NA
+"Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44",NA,NA
+"Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44",NA,NA
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA
 "Heric","BECHADE","DAVID","chef equipe a","District 44",NA,NA
 "Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44","30/11/2033","Durable"
@@ -38,6 +64,7 @@
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44",NA,NA
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA
 "Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44","07/12/2032","Durable"
 "Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44",NA,NA
 "Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44","19/04/2028","Durable"
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA
@@ -88,29 +115,3 @@
 "Savenay","SIMON","PASCAL","responsable de cei","District 44",NA,NA
 "Savenay","THOMAS","FRANCK","chef equipe a","District 44","19/03/2034","Durable"
 "Savenay","TREHIN","ARNAUD","agent d'exploitation","District 44","19/03/2034","Durable"
-"Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA
-"Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44",NA,NA
-"Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44",NA,NA
-"Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44",NA,NA
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44",NA,NA
-"Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44",NA,NA
-"Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA
-"Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44",NA,NA
-"Goulaine","BORDE","SEBASTIEN","responsable de cei","District 44",NA,NA
-"Goulaine","BOURGINE","GUILLAUME","agent d'exploitation","District 44",NA,NA
-"Goulaine","BOURSIER","WILFRIED","agent d'exploitation","District 44",NA,NA
-"Goulaine","BOZAT","KEMAL","agent d'exploitation","District 44",NA,NA
-"Goulaine","CAILLEAU","FREDERIC","agent d'exploitation","District 44",NA,NA
-"Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44",NA,NA
-"Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA
-"Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44",NA,NA
-"Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44",NA,NA
-"Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44",NA,NA
-"Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA
-"Goulaine","PETIT","REGIS","agent d'exploitation","District 44",NA,NA
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA
-"Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA
-"Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA
-"Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44",NA,NA
-"Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44",NA,NA
-"Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44",NA,NA

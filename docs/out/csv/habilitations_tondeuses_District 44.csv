@@ -1,9 +1,10 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
 "Goulaine","ARMENGAUD","JASON","agent d'exploitation","District 44",NA,NA,NA
+"Goulaine","AURAY","EMMANUEL","chef.fe d'équipe","District 44","Tondeuses autoportées _ ACES","16/09/2032","Durable"
 "Goulaine","AUTRET","FLORENT","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","BARREAU","DOMINIQUE","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","03/03/2033","Durable"
 "Goulaine","BARRILLIE","STEPHANE","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","03/03/2032","Durable"
-"Goulaine","BASSET","NICOLAS","chef equipe a","District 44","Tondeuses autoportées _ ACES","03/03/2033","Durable"
+"Goulaine","BASSET","NICOLAS","responsable d'explo","District 44","Tondeuses autoportées _ ACES","03/03/2033","Durable"
 "Goulaine","BAUDRY","STEPHANE","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","14/12/2028","Durable"
 "Goulaine","BESSEAU","CEDRIC","chef(fe) d'equipe","District 44",NA,NA,NA
 "Goulaine","BIOTTEAU","FRANCOIS","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","29/11/2028","Durable"
@@ -15,18 +16,17 @@
 "Goulaine","CAILLEAU","FREDERIC","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","03/03/2033","Durable"
 "Goulaine","CHAUVIN","FRANCK","responsable d'exploi","District 44",NA,NA,NA
 "Goulaine","D'ANGELO-JEANDEL","CELIA","adjoint.e au chef","District 44",NA,NA,NA
+"Goulaine","ESNAULT","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","FORGET","FRANCOIS","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","14/12/2028","Durable"
 "Goulaine","HUTEAU","FREDDY","responsable d'explo","District 44",NA,NA,NA
 "Goulaine","MOUILLE","YANNICK","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","14/12/2028","Durable"
 "Goulaine","PACAUD","GUILLAUME","chef equipe a","District 44",NA,NA,NA
 "Goulaine","PETIT","REGIS","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","14/12/2028","Durable"
-"Goulaine","PIGEON","ALAIN","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","POGU","BAPTISTE","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","RENOULT","JEREMY","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","SIMONNEAU","REGIS","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","03/03/2033","Durable"
 "Goulaine","TAUGAIN","GUILLAUME","agent d'exploitation","District 44",NA,NA,NA
 "Goulaine","VINCENT","FRANCK","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","03/03/2032","Durable"
-"Heric","AURAY","EMMANUEL","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","16/09/2032","Durable"
 "Heric","BATARD","JORDANE","agent d'exploitation","District 44",NA,NA,NA
 "Heric","BECHADE","DAVID","chef equipe a","District 44",NA,NA,NA
 "Heric","COTTIN","JEAN-BAPTISTE","agent d'exploitation","District 44","Tondeuses autoportées _ ACES","16/09/2032","Durable"
@@ -67,6 +67,7 @@
 "Nantes","BRIAND","CYRILLE","chef equipe b","District 44",NA,NA,NA
 "Nantes","CHAPLAIS","PIERRE","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","DEBARRE","SEBASTIEN","agent d'exploitation","District 44",NA,NA,NA
+"Nantes","DERIAN","ANTHONY","responsable d'explo","District 44","Tondeuses autoportées _ ACES","14/06/2033","Durable"
 "Nantes","DUBOIS","OLIVIER","responsable d'explo","District 44",NA,NA,NA
 "Nantes","GUIHO","JEAN-MARC","agent d'exploitation","District 44",NA,NA,NA
 "Nantes","GUILLOSSOU","GREGORY","responsable d'explo","District 44",NA,NA,NA
